@@ -1,32 +1,17 @@
 {
     "commons": {
-        "Sign out of all profiles": "__NOT_TRANSLATED__",
+        "Sign out of all profiles": "",
         "tabTitle": {
-            "Three Ways to Build Your Business or Career in the Toolbox": "ಟೂಲ್‌ಬಾಕ್ಸ್ ನಲ್ಲಿ ನಿಮ್ಮ ವ್ಯವಹಾರ ಅಥವಾ ವೃತ್ತಿಜೀವನವನ್ನು ಬೆಳೆಸಲು ಮೂರು ಮಾರ್ಗಗಳು"
+            "Three Ways to Build Your Business or Career in the Toolbox": ""
         }
     },
     "groupdescription": {
-        "Read more": "__NOT_TRANSLATED__",
-        "Group Description": "__NOT_TRANSLATED__"
+        "Read more": "",
+        "Group Description": ""
     },
     "landing": {
         "punchline": {
-            "India’s largest networking & discussion group for": "__NOT_TRANSLATED__"
+            "India’s largest networking & discussion group for": ""
         }
-    },
-    "rw-words": {
-        "Mobile Sales & Repair": "__NOT_TRANSLATED__",
-        "Real Estate Agents": "__NOT_TRANSLATED__",
-        "AC Sales and Repair": "__NOT_TRANSLATED__",
-        "Drivers": "__NOT_TRANSLATED__",
-        "Laptop, Printers Sales & Repair": "__NOT_TRANSLATED__",
-        "Retailer & Wholesalers": "__NOT_TRANSLATED__",
-        "Car Sales & Service": "__NOT_TRANSLATED__",
-        "Inverter and Battery Sales and Repair": "__NOT_TRANSLATED__",
-        "Two Wheeler Sales & Service": "__NOT_TRANSLATED__",
-        "Beauty Parlours & Spa": "__NOT_TRANSLATED__",
-        "Carpenter Fitters and Interiors": "__NOT_TRANSLATED__",
-        "Water Purifier Sales & Repair": "__NOT_TRANSLATED__",
-        "Kirana Stores": "__NOT_TRANSLATED__"
     }
 }
