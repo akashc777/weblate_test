@@ -1,17 +1,25 @@
 {
-    "commons": {
-        "Sign out of all profiles": "सभी प्रोफाइल से साइन आउट करें",
-        "tabTitle": {
-            "Three Ways to Build Your Business or Career in the Toolbox": "टूलबॉक्स में अपना व्यवसाय या कैरियर बनाने के तीन तरीके"
-        }
-    },
     "groupdescription": {
-        "Read more": "अधिक पढ़ें",
-        "Group Description": "समूह चर्चा"
+        "Group Description": ""
     },
     "landing": {
         "punchline": {
-            "India’s largest networking & discussion group for": "भारत का सबसे बड़ा नेटवर्किंग और चर्चा समूह"
+            "India’s largest networking & discussion group for": ""
         }
+    },
+    "rw-words": {
+        "Mobile Sales & Repair": "",
+        "Real Estate Agents": "",
+        "AC Sales and Repair": "",
+        "Drivers": "",
+        "Laptop, Printers Sales & Repair": "",
+        "Retailer & Wholesalers": "",
+        "Car Sales & Service": "",
+        "Inverter and Battery Sales and Repair": "",
+        "Two Wheeler Sales & Service": "",
+        "Beauty Parlours & Spa": "",
+        "Carpenter Fitters and Interiors": "",
+        "Water Purifier Sales & Repair": "",
+        "Kirana Stores": ""
     }
 }
